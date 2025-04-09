@@ -6,6 +6,7 @@
 #include <unistd.h>
 #include <pthread.h>
 
+
 #define MAX_STACK_FRAMES 10
 
 // Structure to store information about each memory allocation
